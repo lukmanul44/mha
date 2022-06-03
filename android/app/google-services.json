@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1016069558713",
+    "project_id": "mental-health-assistance-49a4c",
+    "storage_bucket": "mental-health-assistance-49a4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016069558713:android:179705c9d8802ff73de668",
+        "android_client_info": {
+          "package_name": "com.flutterflow.mentalhealthassistance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016069558713-8b6d3kpe4m2v1mcf5kceri6ulphk0c0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.mentalhealthassistance",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1016069558713-emf2l6r0kffvq1srffc4ukcq1e7d24kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzstJLuUacaCV-irQWJqCwgiH0vJ_TfjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016069558713-emf2l6r0kffvq1srffc4ukcq1e7d24kc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1016069558713-jptlhrrori1m079bhbbv8t604pkbt9j6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.mentalhealthassistance"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
